@@ -1,0 +1,17 @@
+h1, iframe {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+  
+
+iframe {
+    padding-top: 20px;
+}
+
+
+  
